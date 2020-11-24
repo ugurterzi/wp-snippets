@@ -1,3 +1,5 @@
+<?php // only copy this line if needed
+
 /**
  * Replace 'customer' role (WooCommerce default) with your own one.
 **/
